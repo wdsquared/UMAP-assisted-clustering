@@ -1,8 +1,8 @@
 # COVID-19 UMAP-assisted clustering analysis pipeline - Model development and validation 
 
-# David Greenwood - Univeristy of Birmingham 2022 - drg707@student.bham.ac.uk, wdsquared.projects@gmail.com
+# David Greenwood - Univeristy of Birmingham 2022 - drg707 'at' student 'dot' bham 'dot' ac 'dot' uk, wdsquared 'dot' projects 'at' gmail 'dot' com
 
-# Including modified code originally written by Thomas Taverner https://research.birmingham.ac.uk/en/persons/thomas-taverner
+# Including modified code originally written by Thomas Taverner (https://research.birmingham.ac.uk/en/persons/thomas-taverner) under heading "# Association tests"
 
 #----------------------------------------------------------------#
 
