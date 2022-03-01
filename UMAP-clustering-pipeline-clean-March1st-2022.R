@@ -929,8 +929,8 @@
   #umap_model.visual<-uwot::load_uwot(file = "/path_to/project_folder/UMAP/model/UMAP_4D_to_2D_model_export.rds")
   #GMM_model <- readRDS(paste0("/path_to/project_folder/GMM/model/GMM_4D_model_K29_export.rds"))
   
-  K_value = 29
-  D_value = 4
+  #K_value = 29
+  #D_value = 4
 }
 
 ### Extract UMAP embedding and cluster labels 
